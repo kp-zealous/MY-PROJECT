@@ -36,3 +36,16 @@ The main objective of developing this project are:
 
 ![Capture1](https://user-images.githubusercontent.com/110828621/219953158-6851aade-6f48-4082-99cc-e740e835c245.PNG)
 
+
+2)https://www.indiatoday.in/india/story/prime-minister-narendra-modi-short-
+
+![Capture2](https://user-images.githubusercontent.com/110828621/219953261-897e3bcb-3702-4371-8c79-b5276ea6b1db.PNG)
+
+3)Text:I HATE CHUTKI
+
+![Capture3](https://user-images.githubusercontent.com/110828621/219953303-0ca60c40-64f2-4048-85da-657f2a7f0ba3.PNG)
+
+
+
+This project is done by PR.KRITHIKA PRIYA
+
