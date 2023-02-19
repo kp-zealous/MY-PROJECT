@@ -32,7 +32,7 @@ The main objective of developing this project are:
 
 ## PROGRAM AND OUTPUT
 
-1) https://en.wikipedia.org/wiki/John_Maynard_Keynes
+1)https://en.wikipedia.org/wiki/John_Maynard_Keynes
 
 ![Capture1](https://user-images.githubusercontent.com/110828621/219953158-6851aade-6f48-4082-99cc-e740e835c245.PNG)
 
