@@ -34,4 +34,4 @@ The main objective of developing this project are:
 
 1) https://en.wikipedia.org/wiki/John_Maynard_Keynes
 
-<imgwidth="154",src="C:\Users\ADMIN\Desktop\Capture1.png">
+![My Image](C:\Users\ADMIN\Desktop\Capture1.png")
